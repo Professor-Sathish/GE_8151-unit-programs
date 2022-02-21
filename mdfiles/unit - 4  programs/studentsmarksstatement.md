@@ -1,6 +1,6 @@
 # Students marks statement
 
-<img src="./img/student_mark_img" style="width:400px;" class="center"/>
+<img src="./img/student_mark_img.png" style="width:400px;" class="center"/>
 
 ## Table of Contents
 
@@ -73,13 +73,14 @@ plt.show()
 ```
 
 ## Sample Output
-<img src="./img/student_op.JPG" style="width:400px;"/>
+<img src="./img/student_op.PNG" style="width:400px;"/>
 
 ## Replit Link
 https://tinyurl.com/umr44fd4
+
 <img src="./img/student.png" style="width:100px;"/>
 
 ## PythonTutor Link
 
 https://pythontutor.com/visualize.html#mode=edit
-<img src="./img/python_student.png" style="width:100px;"/>
+
