@@ -5,7 +5,8 @@ print("------------------\n")
 source_file = open("source.txt", "r")
 print("File Opened for Readeing")
 
-# Reading from File [readlines - reads all the lines in files and returns list of strings]
+# Reading from File [readlines - reads all the lines in files and returns
+# list of strings]
 data = source_file.readlines()
 print("File Read Completed")
 print("Type of Data:", type(data))
