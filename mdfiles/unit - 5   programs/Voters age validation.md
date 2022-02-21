@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
+- [People List](#people-list)
 - [Python Code](#python-code)
 - [Sample Output](#Sample-Output)
 - [Replit Link](#replit-link)
@@ -15,6 +16,14 @@
 
 <div align="justify"> <p>  Read the input file which contains names and age.Check the condition, whether age is greater than or equal to 18 or not - if age is greater than or equal to 18, the person will be eligible for the voting.  </div></p>
 
+## People List
+```txt
+raja 31
+kamal 45
+vimal 98
+suresh 17
+pavi 5
+```
 
 
 
