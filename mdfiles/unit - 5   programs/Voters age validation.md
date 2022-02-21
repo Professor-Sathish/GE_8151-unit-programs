@@ -51,14 +51,7 @@ finally:
         print(error)
 
 ```
-```text
-peoplelist.txt
- raja 31
- kamal 45
- vimal 98
- suresh 17
- pavi 5
- ```
+
 
 ## Sample Output
 <img src="./img/vote.PNG" style="width:400px;" class="center"/>
