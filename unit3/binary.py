@@ -8,7 +8,7 @@ def bsearch_slice(alist, token):
     @param alist is a list of numbers
     @param token is an integer
 
-    @return True if found else False 
+    @return True if found else False
 
     '''
     c = 1
@@ -17,26 +17,27 @@ def bsearch_slice(alist, token):
         midpoint = len(alist) // 2
         midvalue = alist[midpoint]
 
-        print(f'Try {c} : search for: {token} at mid:{midpoint}, midvalue: {midvalue}')
+        print(
+            f'Try {c} : search for: {token} at mid:{midpoint}, midvalue: {midvalue}')
 
         if token == midvalue:
             return True
 
         alist = alist[:midpoint] if token < midvalue else \
-            alist[midpoint+1:]
+            alist[midpoint + 1:]
         c += 1
     return False
 
 
 def binary_search(alist, token):
-    '''implements the binary search algorithm to search for 
+    '''implements the binary search algorithm to search for
     an integer in a list of numbers
 
     @author kgashok
     @param alist is a list of numbers
     @param token is an integer
 
-    @return index or -1 if not found 
+    @return index or -1 if not found
 
     '''
     left = 0
@@ -62,7 +63,7 @@ def binary_search(alist, token):
 # Main Program
 num_list = []
 n = int(input("Enter the number of elements: "))
-num_list = sorted([random.randint(1, n*10) for _ in range(n)])
+num_list = sorted([random.randint(1, n * 10) for _ in range(n)])
 num_list.sort()
 print(num_list[:10], "...", num_list[-1:])
 
