@@ -77,9 +77,10 @@ plt.show()
 
 ## Replit Link
 https://tinyurl.com/umr44fd4
+
 <img src="./img/student.png" style="width:100px;"/>
 
 ## PythonTutor Link
 
 https://pythontutor.com/visualize.html#mode=edit
-<img src="./img/python_student.png" style="width:100px;"/>
+
