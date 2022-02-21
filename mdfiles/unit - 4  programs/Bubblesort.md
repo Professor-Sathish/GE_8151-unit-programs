@@ -49,7 +49,7 @@ print(f"Largest number in a list is : {sorted_list[-1]}")
 ```
 
 ## Sample Output
-<img src="./img/bubblesorts.png" style="width:400px;" class="center"/>
+<img src="./img/bubblesorts.PNG" style="width:400px;" class="center"/>
 
 ## Replit Link
 https://tinyurl.com/44fa4ums
