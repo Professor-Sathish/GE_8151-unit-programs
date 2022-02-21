@@ -56,5 +56,6 @@ peoplelist.txt
 
 ## Replit Link
 https://tinyurl.com/2p8ax74e
+
 <img src="./img/vote_replit.png" style="width:100px;"/>
 
