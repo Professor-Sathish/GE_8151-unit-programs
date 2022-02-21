@@ -52,7 +52,7 @@ peoplelist.txt
  ```
 
 ## Sample Output
-<img src="./img/vote.png" style="width:400px;" class="center"/>
+<img src="./img/vote.PNG" style="width:400px;" class="center"/>
 
 ## Replit Link
 https://tinyurl.com/2p8ax74e
