@@ -117,12 +117,12 @@ print("Thank you... Visit Again!!!")
 ```
 
 ## Sample Output
-<img src="./img/Retailbillop.PNG" style="width:400px;" class="center"/>
+<img src="./img/Retailbillop.png" style="width:400px;" class="center"/>
 
 ## Replit Link
 https://tinyurl.com/2p8nmxmj
 
-<img src="./img/RetailQR.PNG" style="width:400px;" class="center"/>
+<img src="./img/RetailQR.png" style="width:400px;" class="center"/>
 
 ## PythonTutor Link
 
